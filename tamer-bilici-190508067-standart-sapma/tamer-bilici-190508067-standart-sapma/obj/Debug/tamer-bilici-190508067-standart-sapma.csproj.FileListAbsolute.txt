@@ -1,0 +1,9 @@
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\bin\Debug\tamer-bilici-190508067-standart-sapma.exe.config
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\bin\Debug\tamer-bilici-190508067-standart-sapma.exe
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\bin\Debug\tamer-bilici-190508067-standart-sapma.pdb
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\obj\Debug\tamer-bilici-190508067-standart-sapma.csprojResolveAssemblyReference.cache
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\obj\Debug\tamer_bilici_190508067_standart_sapma.Form1.resources
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\obj\Debug\tamer_bilici_190508067_standart_sapma.Properties.Resources.resources
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\obj\Debug\tamer-bilici-190508067-standart-sapma.csproj.GenerateResource.Cache
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\obj\Debug\tamer-bilici-190508067-standart-sapma.exe
+c:\users\tamer\documents\visual studio 2013\Projects\tamer-bilici-190508067-standart-sapma\tamer-bilici-190508067-standart-sapma\obj\Debug\tamer-bilici-190508067-standart-sapma.pdb
